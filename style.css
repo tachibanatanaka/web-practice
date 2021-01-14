@@ -60,19 +60,19 @@ a {
   display: block;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 414px) {
   body {
     background-color: rgba(124, 106, 106, 0.356);
     display: block;
     color: red;
   }
   .wrapper {
-    width: 375px;
+    width: 414px;
     height: 216px;
     background: url(images/キャプチャ.JPG) no-repeat center;
   }
   .new {
-    width: 375px;
+    width: 414px;
     height: 80px;
     margin-bottom: 20px;
     font-size: 30px;
@@ -80,7 +80,7 @@ a {
     text-align: center;
   }
   .deckview {
-    width: 375px;
+    width: 414px;
     height: 325px;
     background: url(images/375px-Reno_the_Relicologist_-_trailer_1.jpg) no-repeat center;
     margin: 0 auto;
@@ -102,7 +102,7 @@ a {
     font-weight: normal;
   }
   footer {
-    width: 375px;
+    width: 414px;
     height: 270px;
     display: block;
     background: url(images/ErgAUhcVkAEJmCz.png) no-repeat center;
